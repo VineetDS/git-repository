@@ -1,4 +1,6 @@
 pandas
 numpy
 seaborn
+matplotlib
+pyplot
 and other libraries too
